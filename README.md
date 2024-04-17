@@ -1,6 +1,6 @@
 # Image Classification Model for Brain Tumor Diagnosis
 
-This repository contains an image classification model developed using Convolutional Neural Networks (CNN) based on the ResNet50 architecture. The model is designed for accurate diagnosis of brain tumors from MRI scans. I have also included metrics (training & validation loss and confusion matrix) and one of my trained models as a .keras
+This repository contains an image classification model developed using Convolutional Neural Networks (CNN) based on the ResNet50 architecture. The model is designed for accurate diagnosis of brain tumors from MRI scans.
 
 ## Background
 
